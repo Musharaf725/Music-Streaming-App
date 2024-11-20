@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79709195125",
+    "project_id": "musicstreaming-4fac5",
+    "storage_bucket": "musicstreaming-4fac5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79709195125:android:54d39427f552a7bf71213c",
+        "android_client_info": {
+          "package_name": "com.example.musicstreaming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ6L1tI_7JO-fPTh_u8BU6rqRuspnB-64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
